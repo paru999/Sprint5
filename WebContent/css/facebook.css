@@ -1,0 +1,156 @@
+#background
+{
+background-color:#4867aa;
+padding-bottom: 25px;
+
+}
+#sectxt
+{
+	padding-bottom: 10px;
+	margin-top: 15px;
+	
+}
+
+#abcd
+{
+	background-color:#dfe3ee;
+}
+#xyz{
+	
+	margin-top: 135px;
+	
+	
+}
+
+#box
+{
+	background-color:#ffffff;
+	width:700px;
+	height:350px;
+	margin-left: 350px;
+    margin-top: 150px;
+	
+}
+#txtbox
+{
+	border:none;
+	left:20px;
+} 
+
+
+#addbx
+{
+margin-left: 955px;
+margin-top: -55px;
+}
+
+
+#logo
+{
+margin-left:100px;
+}
+#form
+{
+position: fixed;
+margin-left:850px;
+margin-top:-100px;
+}
+#img
+{
+ position: fixed;
+ margin-left:50px;
+ margin-top: 25px;
+}
+
+#regform
+{
+  position:fixed;
+  margin-left:850px;
+  margin-top:5px;
+}
+.container
+{
+	width:1700px;
+	
+
+}
+.p
+{
+	color: red;
+	position: absolute;
+	top: 50px;
+	margin: 7px;
+}
+.s
+{
+	color: red;
+	position: absolute;
+	top: 50px;
+	margin: 7px;
+	right:130;
+
+}
+.uname
+{
+	
+	color: red;
+position: absolute;
+left: -140px;
+}
+.lalname
+{
+	color: red;
+position: absolute;
+right: 50px;
+top: 83px;
+
+}
+.ph
+{
+	color: red;
+position: absolute;
+left: -130px;
+}
+.pa
+{
+	color: red;
+position: absolute;
+left: -130px;
+}
+.e
+{
+	color: red;
+position: absolute;
+left: -110px
+}
+.dys
+{
+	color:red;
+	Left:-120;
+}
+.fm
+{
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
